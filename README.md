@@ -1,6 +1,6 @@
 This is a random number generator, that shows a list of numbers, and can compare to another number the user specifies.
 
-Additionally, the user can filter all random numbers by odd/even (or disable filtering). So if the user enabled even filtering, only the even random numbers should show!
+Additionally, the user can filter all random numbers by odd/even (or disable filtering). So if the user enabled even-number-filtering, only the random numbers that are even should show!
 
 #### Running:
 
